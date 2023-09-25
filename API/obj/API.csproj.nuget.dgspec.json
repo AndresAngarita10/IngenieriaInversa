@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj": {}
+    "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj": {
+    "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
+        "projectPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
         "packagesPath": "C:\\Users\\APT01-042\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\obj\\",
+        "outputPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj": {
+    "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APT01-042\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\obj\\",
+        "outputPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -157,14 +157,14 @@
         }
       }
     },
-    "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\APT01-042\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -179,8 +179,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj"
+              "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Core\\Core.csproj"
               }
             }
           }

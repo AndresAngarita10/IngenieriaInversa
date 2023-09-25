@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NcCbnH+SPVaDETris4LpA8IR9ynMJOEDCu7fPAOnhR3HvrAZA2Q5siNNso5FVhkiQ5gAB0K2dL2r4UGV1CgxwQ==",
+  "dgSpecHash": "i6UasVu4IcQeVmHuNUvBJyXWMd8kZHS9fOJGrEcGdDth0YjlFj9mGhnzxoBl2Op8DbArriW27mye9JB+YtTKcg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APT01-042\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\APT01-042\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1vDQ7yNiTbyBUffw8om4v39Ng0hv4FrDg+7R/2TbEcxNT0O18QR8YsbOeCYM1aB8gKlP+9DkUj0v7tDUqYb/A==",
+  "dgSpecHash": "FgqBIywADKFmBjHJIxhCTmpu0X/xGExXVDdiTt/4djYTkNbEtVbzvQnWJiJRBn0MaX3+b3DyX78fHUtmOs1BrQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\APT01-042\\Documents\\Clases\\Clase09-25-3Capas\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APT01-042\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\APT01-042\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
